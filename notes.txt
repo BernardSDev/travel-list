@@ -1,0 +1,18 @@
+Git
+
+Create Remote Repository And Push Local Repository to it
+
+
+REMOTE
+1. Create remote repository
+
+LOCAL
+1. Initialize Git
+
+2. Copy and paste last four(4) commands
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/bernardsam-apoh/demo.git
+    git push -u origin main
+
+3. Press enter to connect to remote repository
